@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rockFormationMedium.obj-7c1ed4290437aa04841f729b716ec032.mesh"
+
+[deps]
+
+files=[ "res://.import/rockFormationMedium.obj-7c1ed4290437aa04841f729b716ec032.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/rockFormationMedium.obj"
+dest_files=[ "res://.import/rockFormationMedium.obj-7c1ed4290437aa04841f729b716ec032.mesh", "res://.import/rockFormationMedium.obj-7c1ed4290437aa04841f729b716ec032.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lightsMulti.obj-26bf2d7bb8b492e2d7dc5ccfa8a58e3e.mesh"
+
+[deps]
+
+files=[ "res://.import/lightsMulti.obj-26bf2d7bb8b492e2d7dc5ccfa8a58e3e.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/lightsMulti.obj"
+dest_files=[ "res://.import/lightsMulti.obj-26bf2d7bb8b492e2d7dc5ccfa8a58e3e.mesh", "res://.import/lightsMulti.obj-26bf2d7bb8b492e2d7dc5ccfa8a58e3e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

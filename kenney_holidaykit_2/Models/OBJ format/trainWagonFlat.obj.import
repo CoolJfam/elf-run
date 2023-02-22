@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/trainWagonFlat.obj-f9e804c954b86ed17f4069f311d12cdc.mesh"
+
+[deps]
+
+files=[ "res://.import/trainWagonFlat.obj-f9e804c954b86ed17f4069f311d12cdc.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/trainWagonFlat.obj"
+dest_files=[ "res://.import/trainWagonFlat.obj-f9e804c954b86ed17f4069f311d12cdc.mesh", "res://.import/trainWagonFlat.obj-f9e804c954b86ed17f4069f311d12cdc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

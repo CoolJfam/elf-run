@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinRoofChimney.obj-b7842904ef274c9240af960c7cdd7614.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinRoofChimney.obj-b7842904ef274c9240af960c7cdd7614.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/cabinRoofChimney.obj"
+dest_files=[ "res://.import/cabinRoofChimney.obj-b7842904ef274c9240af960c7cdd7614.mesh", "res://.import/cabinRoofChimney.obj-b7842904ef274c9240af960c7cdd7614.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

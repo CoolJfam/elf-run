@@ -1,0 +1,102 @@
+[gd_scene load_steps=13 format=2]
+
+[ext_resource path="res://Goal/Roof.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Goal/House_Body.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Goal/wreath.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Decor/StreetLight/StreetLight.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Decor/whitepresent.tscn" type="PackedScene" id=5]
+[ext_resource path="res://Decor/christmastree.tscn" type="PackedScene" id=6]
+[ext_resource path="res://Decor/greenpresent.tscn" type="PackedScene" id=7]
+[ext_resource path="res://Decor/candycane.tscn" type="PackedScene" id=8]
+[ext_resource path="res://Decor/tree.tscn" type="PackedScene" id=9]
+[ext_resource path="res://Decor/greencandycane.tscn" type="PackedScene" id=10]
+[ext_resource path="res://Decor/snowman.tscn" type="PackedScene" id=11]
+
+[sub_resource type="BoxShape" id=1]
+extents = Vector3( 3.02611, 0.52023, 2.12367 )
+
+[node name="House" type="Area"]
+
+[node name="tmpParent" parent="." instance=ExtResource( 1 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.961067, 0 )
+
+[node name="tmpParent2" parent="." instance=ExtResource( 2 )]
+
+[node name="cabinWall" parent="tmpParent2" index="0"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.140543, 0, -0.473015 )
+
+[node name="cabinWindow" parent="tmpParent2" index="1"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.140543, 0, 1.52228 )
+
+[node name="cabinWindow2" parent="tmpParent2" index="2"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.999655, 0, 1.52228 )
+
+[node name="cabinWall2" parent="tmpParent2" index="3"]
+transform = Transform( -8.74228e-08, 0, -1, 0, 1, 0, 2, 0, -4.37114e-08, -1.54941, 0, 0.522037 )
+
+[node name="cabinWindowLarge" parent="tmpParent2" index="4"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.988442, 0, -0.473015 )
+
+[node name="cabinDoor" parent="tmpParent2" index="5"]
+transform = Transform( -8.74228e-08, 0, -1, 0, 1, 0, 2, 0, -4.37114e-08, 0.415923, 0, 0.541204 )
+
+[node name="cabinCorner" parent="tmpParent2" index="6"]
+transform = Transform( -4.37114e-08, 0, -1, 0, 1, 0, 1, 0, -4.37114e-08, 0.38599, 0, -0.435845 )
+
+[node name="cabinCorner2" parent="tmpParent2" index="7"]
+transform = Transform( -1, 0, 8.74228e-08, 0, 1, 0, -8.74228e-08, 0, -1, 0.379108, 0, 1.53494 )
+
+[node name="cabinCorner3" parent="tmpParent2" index="8"]
+transform = Transform( 1.49012e-07, 0, 1, 0, 1, 0, -1, 0, 1.49012e-07, -1.53063, 0, 1.50733 )
+
+[node name="cabinCorner4" parent="tmpParent2" index="9"]
+transform = Transform( 1, 0, -1.92723e-07, 0, 1, 0, 1.92723e-07, 0, 1, -1.53063, 0, -0.443722 )
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.53095, 0.564244, 0.501282 )
+shape = SubResource( 1 )
+
+[node name="CSGBox" type="CSGBox" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -0.566158, 0.509159, 0.495525 )
+use_collision = true
+width = 1.86412
+height = 1.01383
+
+[node name="tmpParent3" parent="." instance=ExtResource( 3 )]
+transform = Transform( -2.18557e-08, 0, -0.5, 0, 0.5, 0, 0.5, 0, -2.18557e-08, 0.441663, 0.378928, 0.545279 )
+
+[node name="StreetLight" parent="." instance=ExtResource( 4 )]
+transform = Transform( 0.2, 0, 0, 0, 0.2, 0, 0, 0, 0.2, -0.507248, 0, 0.270057 )
+
+[node name="StreetLight2" parent="." instance=ExtResource( 4 )]
+transform = Transform( -0.2, 0, 3.72529e-09, 0, 0.2, 0, -3.72529e-09, 0, -0.2, 3.34922, 0, 0.986175 )
+
+[node name="tmpParent4" parent="." instance=ExtResource( 8 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.881114, 0, -0.368305 )
+
+[node name="tmpParent5" parent="." instance=ExtResource( 10 )]
+transform = Transform( 0.787968, 0, 0.615717, 0, 1, 0, -0.615717, 0, 0.787968, 0.935401, 0, 1.26154 )
+
+[node name="tmpParent6" parent="." instance=ExtResource( 6 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, -1.08189 )
+
+[node name="tmpParent8" parent="." instance=ExtResource( 9 )]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.554985, 0, 2.08007 )
+
+[node name="tmpParent7" parent="." instance=ExtResource( 7 )]
+transform = Transform( 0.75, 0, 0, 0, 0.75, 0, 0, 0, 0.75, 1.93682, 0, -0.474617 )
+
+[node name="tmpParent9" parent="." instance=ExtResource( 5 )]
+transform = Transform( 0.686621, 0, -0.301749, 0, 0.75, 0, 0.301749, 0, 0.686621, 1.79548, 0, 1.51478 )
+
+[node name="tmpParent10" parent="." instance=ExtResource( 11 )]
+transform = Transform( -0.470873, 0, -0.882201, 0, 1, 0, 0.882201, 0, -0.470873, 0.834167, 0, -1.14345 )
+
+[node name="tmpParent11" parent="." instance=ExtResource( 11 )]
+transform = Transform( 0.557253, 0, -0.830343, 0, 1, 0, 0.830343, 0, 0.557253, 1.99353, 0, 2.19526 )
+
+[node name="DirectionalLight" type="DirectionalLight" parent="."]
+transform = Transform( -5.42526e-08, -0.25, -4.07302e-08, 0, -4.07302e-08, 0.25, -0.333, 4.07302e-08, 6.63579e-15, -0.54, 3.555, 0.529 )
+shadow_enabled = true
+
+[editable path="tmpParent2"]

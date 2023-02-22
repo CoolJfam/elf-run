@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/trackSimpleStraight.obj-e081b0c70987283081393358d0cf75a6.mesh"
+
+[deps]
+
+files=[ "res://.import/trackSimpleStraight.obj-e081b0c70987283081393358d0cf75a6.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/trackSimpleStraight.obj"
+dest_files=[ "res://.import/trackSimpleStraight.obj-e081b0c70987283081393358d0cf75a6.mesh", "res://.import/trackSimpleStraight.obj-e081b0c70987283081393358d0cf75a6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

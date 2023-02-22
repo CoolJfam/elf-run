@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ladder.obj-9486a3f73b49e5eb0c9c93ab1784bf42.mesh"
+
+[deps]
+
+files=[ "res://.import/ladder.obj-9486a3f73b49e5eb0c9c93ab1784bf42.mesh" ]
+
+source_file="res://kenney_platformerkit2/Models/OBJ format/ladder.obj"
+dest_files=[ "res://.import/ladder.obj-9486a3f73b49e5eb0c9c93ab1784bf42.mesh", "res://.import/ladder.obj-9486a3f73b49e5eb0c9c93ab1784bf42.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

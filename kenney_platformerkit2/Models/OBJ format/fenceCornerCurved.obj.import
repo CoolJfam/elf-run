@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fenceCornerCurved.obj-4f37889c96604be3b7f820da443a51a9.mesh"
+
+[deps]
+
+files=[ "res://.import/fenceCornerCurved.obj-4f37889c96604be3b7f820da443a51a9.mesh" ]
+
+source_file="res://kenney_platformerkit2/Models/OBJ format/fenceCornerCurved.obj"
+dest_files=[ "res://.import/fenceCornerCurved.obj-4f37889c96604be3b7f820da443a51a9.mesh", "res://.import/fenceCornerCurved.obj-4f37889c96604be3b7f820da443a51a9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

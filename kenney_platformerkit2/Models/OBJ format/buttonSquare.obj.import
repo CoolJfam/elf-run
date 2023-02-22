@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/buttonSquare.obj-a798f0726355542fa8a01745d76b778b.mesh"
+
+[deps]
+
+files=[ "res://.import/buttonSquare.obj-a798f0726355542fa8a01745d76b778b.mesh" ]
+
+source_file="res://kenney_platformerkit2/Models/OBJ format/buttonSquare.obj"
+dest_files=[ "res://.import/buttonSquare.obj-a798f0726355542fa8a01745d76b778b.mesh", "res://.import/buttonSquare.obj-a798f0726355542fa8a01745d76b778b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

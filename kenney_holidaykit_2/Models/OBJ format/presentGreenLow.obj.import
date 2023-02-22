@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/presentGreenLow.obj-26a858a7f066e08b00f2a79cfbf0a73f.mesh"
+
+[deps]
+
+files=[ "res://.import/presentGreenLow.obj-26a858a7f066e08b00f2a79cfbf0a73f.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/presentGreenLow.obj"
+dest_files=[ "res://.import/presentGreenLow.obj-26a858a7f066e08b00f2a79cfbf0a73f.mesh", "res://.import/presentGreenLow.obj-26a858a7f066e08b00f2a79cfbf0a73f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinDoor.obj-46a3b248fdcb6c5cb3b4fcefd87168d1.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinDoor.obj-46a3b248fdcb6c5cb3b4fcefd87168d1.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/cabinDoor.obj"
+dest_files=[ "res://.import/cabinDoor.obj-46a3b248fdcb6c5cb3b4fcefd87168d1.mesh", "res://.import/cabinDoor.obj-46a3b248fdcb6c5cb3b4fcefd87168d1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

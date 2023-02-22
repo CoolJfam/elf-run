@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/blockSnowRoundedLow.obj-7c0c14060fa6c024836a496dce00f301.mesh"
+
+[deps]
+
+files=[ "res://.import/blockSnowRoundedLow.obj-7c0c14060fa6c024836a496dce00f301.mesh" ]
+
+source_file="res://kenney_platformerkit2/Models/OBJ format/blockSnowRoundedLow.obj"
+dest_files=[ "res://.import/blockSnowRoundedLow.obj-7c0c14060fa6c024836a496dce00f301.mesh", "res://.import/blockSnowRoundedLow.obj-7c0c14060fa6c024836a496dce00f301.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

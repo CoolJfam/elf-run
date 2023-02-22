@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treePineSnowed.obj-736d7178d6295c789b6387516d7d28cc.mesh"
+
+[deps]
+
+files=[ "res://.import/treePineSnowed.obj-736d7178d6295c789b6387516d7d28cc.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/treePineSnowed.obj"
+dest_files=[ "res://.import/treePineSnowed.obj-736d7178d6295c789b6387516d7d28cc.mesh", "res://.import/treePineSnowed.obj-736d7178d6295c789b6387516d7d28cc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

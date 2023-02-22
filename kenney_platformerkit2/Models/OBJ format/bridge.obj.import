@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bridge.obj-b19cb0f1c18455b6fae70cb492fa07af.mesh"
+
+[deps]
+
+files=[ "res://.import/bridge.obj-b19cb0f1c18455b6fae70cb492fa07af.mesh" ]
+
+source_file="res://kenney_platformerkit2/Models/OBJ format/bridge.obj"
+dest_files=[ "res://.import/bridge.obj-b19cb0f1c18455b6fae70cb492fa07af.mesh", "res://.import/bridge.obj-b19cb0f1c18455b6fae70cb492fa07af.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mixkit-audience-light-applause-354.ogg-11611b39ed6578dea38a4e54f81f3027.oggstr"
+
+[deps]
+
+source_file="res://SFX/mixkit-audience-light-applause-354.ogg"
+dest_files=[ "res://.import/mixkit-audience-light-applause-354.ogg-11611b39ed6578dea38a4e54f81f3027.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

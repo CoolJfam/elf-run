@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lightpostHanging.obj-e2a5f642f7197cc68ca8ac56617c3715.mesh"
+
+[deps]
+
+files=[ "res://.import/lightpostHanging.obj-e2a5f642f7197cc68ca8ac56617c3715.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/lightpostHanging.obj"
+dest_files=[ "res://.import/lightpostHanging.obj-e2a5f642f7197cc68ca8ac56617c3715.mesh", "res://.import/lightpostHanging.obj-e2a5f642f7197cc68ca8ac56617c3715.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

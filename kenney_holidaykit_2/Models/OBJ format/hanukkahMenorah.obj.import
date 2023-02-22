@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/hanukkahMenorah.obj-e88bb67bb65a81cf288ac982654a8259.mesh"
+
+[deps]
+
+files=[ "res://.import/hanukkahMenorah.obj-e88bb67bb65a81cf288ac982654a8259.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/hanukkahMenorah.obj"
+dest_files=[ "res://.import/hanukkahMenorah.obj-e88bb67bb65a81cf288ac982654a8259.mesh", "res://.import/hanukkahMenorah.obj-e88bb67bb65a81cf288ac982654a8259.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

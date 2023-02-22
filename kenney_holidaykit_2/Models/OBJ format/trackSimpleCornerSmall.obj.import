@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/trackSimpleCornerSmall.obj-45d8829bdf098a6f41dcf24e3d546c7d.mesh"
+
+[deps]
+
+files=[ "res://.import/trackSimpleCornerSmall.obj-45d8829bdf098a6f41dcf24e3d546c7d.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/trackSimpleCornerSmall.obj"
+dest_files=[ "res://.import/trackSimpleCornerSmall.obj-45d8829bdf098a6f41dcf24e3d546c7d.mesh", "res://.import/trackSimpleCornerSmall.obj-45d8829bdf098a6f41dcf24e3d546c7d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

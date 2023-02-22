@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinWallHalf.obj-368b153e2a045c57b06acffad8028d07.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinWallHalf.obj-368b153e2a045c57b06acffad8028d07.mesh" ]
+
+source_file="res://kenney_holidaykit_2/Models/OBJ format/cabinWallHalf.obj"
+dest_files=[ "res://.import/cabinWallHalf.obj-368b153e2a045c57b06acffad8028d07.mesh", "res://.import/cabinWallHalf.obj-368b153e2a045c57b06acffad8028d07.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
